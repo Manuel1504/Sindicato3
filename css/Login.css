@@ -1,0 +1,61 @@
+
+body {
+	cursor: pointer;
+}
+
+div{
+	font-color: black;
+
+}
+
+form,
+input,
+button {
+    margin: 10px;
+
+}
+#login {
+
+    margin-top: 40px;
+    border-radius: 15%;
+    background-color: rgba(0, 0, 0, 0.2);
+    -webkit-border-radius: 55px;
+    -moz-border-radius: 55px;
+}
+
+
+.logo{
+	border:;
+	height:50px;
+	 width:50px;
+	 opacity: ;
+}
+
+img{
+
+	height: 680px;
+	width: 1368px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+   -o-background-size: cover;
+    background-size: cover;
+    -webkit-filter: blur(2px);
+    filter: blur(2px);
+}
+
+#sindicato{
+	height: 130px;
+	width: 130px;
+	top: 0%;
+
+}
+
+#imagen{
+ height: 3px;
+width:3px;
+
+}
